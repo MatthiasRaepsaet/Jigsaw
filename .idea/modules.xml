@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalyzerModule/AnalyzerModule.iml" filepath="$PROJECT_DIR$/AnalyzerModule/AnalyzerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmotionAnalyzerModule/EmotionAnalyzerModule.iml" filepath="$PROJECT_DIR$/EmotionAnalyzerModule/EmotionAnalyzerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JigsawModularity.iml" filepath="$PROJECT_DIR$/JigsawModularity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainModule/MainModule.iml" filepath="$PROJECT_DIR$/MainModule/MainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PosiNegaAnalyzerModule/PosiNegaAnalyzerModule.iml" filepath="$PROJECT_DIR$/PosiNegaAnalyzerModule/PosiNegaAnalyzerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SentenceSplitterModule/SentenceSplitterModule.iml" filepath="$PROJECT_DIR$/SentenceSplitterModule/SentenceSplitterModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitterModule/SplitterModule.iml" filepath="$PROJECT_DIR$/SplitterModule/SplitterModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextSplitterModule/TextSplitterModule.iml" filepath="$PROJECT_DIR$/TextSplitterModule/TextSplitterModule.iml" />
+    </modules>
+  </component>
+</project>
